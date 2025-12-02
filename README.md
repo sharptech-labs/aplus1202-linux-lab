@@ -51,6 +51,6 @@ This repo aligns with the Linux-related objectives of the CompTIA A+ 220-1202 ex
 Clone the repository and browse the Markdown files:
 
 ```bash
-git clone https://github.com/yourusername/aplus1202-linux-labs.git
+git clone https://github.com/sharptech-labs/aplus1202-linux-labs.git
 cd aplus1202-linux-labs
 
