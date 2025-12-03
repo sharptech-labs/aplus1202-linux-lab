@@ -91,5 +91,5 @@ This repo aligns with CompTIA A+ 220-1202 Objective 1.9 — Identify common feat
 Clone the repository and browse the Markdown files:
 
 ```bash
-git clone https://github.com/sharptech-labs/aplus1202-linux-labs.git
+git clone https://github.com/sharptech-labs/aplus1202-linux-lab.git
 cd aplus1202-linux-labs
