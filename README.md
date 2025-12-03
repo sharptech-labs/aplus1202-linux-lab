@@ -1,9 +1,13 @@
 # A+ Core 2 Linux Lab
 
 This repository documents my hands-on Linux VM lab
+
 I am using Ubuntu 24.04.3 LTS 
+
 The core focus of this repository is to practice and demonstrate a working knowledge of the common features and tools of the Linux client/desktop operating system
+
 I have documentented how to set up a Linux VM in Hyper-V, some troubleshooting you may run into, as well as my notes and observations while doing excersices regarding the objectives for the CompTIA A+ 220-1202 exam
+
 You can follow along with my steps to set this lab up on your computer and learn the objectives for the exam
 
 ---
