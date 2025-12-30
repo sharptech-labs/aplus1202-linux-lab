@@ -1,4 +1,4 @@
-# Lab: Common configuration files 
+# Lab: common configuration files 
 
 ##  File Overview 
 -**File:** /etc/passwd  
